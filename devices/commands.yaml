@@ -1,0 +1,3 @@
+commands:
+  - "terminal length 0"
+  - "show running-config"
