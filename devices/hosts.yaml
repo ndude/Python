@@ -1,0 +1,12 @@
+hosts:
+  - addr: 192.168.100.2
+    user: cisco
+    pass: cisco
+  #
+  # - addr: 192.168.1.2
+  #   user: cisco
+  #   pass: cisco
+  #
+  # - addr: 192.168.1.3
+  #   user: cisco
+  #   pass: cisco
