@@ -1,3 +1,6 @@
+# The folowing script SSH to a dives and ad a description to the Eth 1/3 interface.
+# You need to manually enter an IP address of the device you want to configure.
+
 import paramiko
 import time
 
